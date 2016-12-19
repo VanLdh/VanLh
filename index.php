@@ -11,6 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Projet Git ISFCE DVPWeb<br/>Lundi 19 Dec 2016<br/> ha que coucou</h1>
+        <br/><br/><br/><br/><br/><br/><br/><br/>
+        <h2>Le Titre d'en haut est faux!!</h2>
         <?php
         // put your code here
         ?>
